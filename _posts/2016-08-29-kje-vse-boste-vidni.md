@@ -1,14 +1,15 @@
 ---
-id: 65c88cbb-0ea5-4a28-b183-f8c29bfcf051
-dateModified: '2016-08-29T11:11:41.388Z'
-title: Virtualni sprehodi 360°
-datePublished: '2016-08-29T11:11:42.078Z'
-author: []
-description: – – –
-publisher: {}
-via: {}
+datePublished: '2016-08-29T11:14:10.875Z'
 sourcePath: _posts/2016-08-29-kje-vse-boste-vidni.md
 hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-29T11:14:10.233Z'
+title: Virtualni sprehodi 360°
+id: 65c88cbb-0ea5-4a28-b183-f8c29bfcf051
+publisher:
+  name: cerdo
+description: – – –
 starred: false
 url: virtualni-sprehodi-360degree/index.html
 _type: Blurb
@@ -50,6 +51,6 @@ Predstavitev vašega podjetja v zgornjem desnem kotu iskalnika Google s povezavo
 #### Prvi rezultat ki ga ponudi na Google na mobilni napravi je podatek iz vaše My Business strani.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2808a98-3d9e-4695-812f-b746ee80b6f7.jpg)
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlkMFuwyAQRH_FcC_GCywQxal8qJRLVOULKjsG2xLElnHq9u9LmsMcZvRmpdnj5Nc2uiKtt5qO27akQ1nu-86GeR6CY7c5lrFdUuli5_r3patJFTkREUiV3J1AeiQivyupQaJWGoUyBKPJlM7ElzlfzkpoF1LTNFd--fjxn1cCz3ovFdNcSGW0BW6klAT6SjCjpLJaGY4IHIjwYJFpNBZsZgEVCiL9G2hmBShUlTRgKgCiPGfa5FOY-xIhy9Jin_ptrKnhnBajm4Zxqyk-zf_wbl57t9Y0-7T9BlfTV3LIQRvCvPtHCOm2Onc_HcvXs05_rldWvg" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlkMtuwyAQRX_FsC-GAQaI4lReVMomqvIFlR3jhwSxZZy6_fuSZjGLOTp3pLnHqV-b6Iu03io6btuSDmW57zsb5nkInt3mWMZmSaWPre_el7YiInIiIxCR_J1AeiSivoUyoNBog1JbgtFmy2Tjy54vZy2ND6mu6yu_fPz0n1cCz3inNDNcKm2NA26VUgQ6IZnVSjujLUcEDkT24JAZtA5cdgE1SqL6NzDMSdCohbJgBQDRPWfG5lOY8wohj6PFPnXbWFHLOS1GPw3jVlF8Lv-Pt_Pa-bWiIoO0_QZf0Rc6ZNCEMO_9I4R0W72_n47lq63TH_4KVu8" style=""></iframe>
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlkM1ugzAQhF8F-15j1uu_KKTiUCmXqMoTVBBsQLIDwqS0b1-nOcxhRt-sNHuc_NpGV6T1VtNx25Z0KMt939kwz0Nw7DbHMrZLKl3sXP--dDWpIiciAqmSuxNIj0Twu0INqLTUSkhDVDSZ0pn4MufLWQrtQmqa5sovHz_-80rgWe9RMs0FSqMtcIOIBPpKMCNRWi0NVwo4EOHBKqaVsWAzC0oqQdC_gWZWgFSyQgOmAiDSc6ZNPqVyHxVkWVrsU7-NNUXOaTG6aRi3moqn-R_ezWvv1ppmn7bf4Gr6Sg45aEOYd_8IId1W5-6nY_l61ukPrGpWtw" style=""></iframe>
