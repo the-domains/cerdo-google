@@ -1,20 +1,20 @@
 ---
-datePublished: '2016-08-29T10:01:10.664Z'
+datePublished: '2016-08-29T10:12:50.675Z'
+sourcePath: _posts/2016-08-29-cenik-izdelave.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-29T10:01:09.835Z'
+dateModified: '2016-08-29T10:12:50.197Z'
 title: Cenik Izdelave
 publisher: {}
 description: >-
   Izdelava in objava virtualnega ogleda je enkraten strošek brez naročnine.
-  Gostovanje na Google aplikacijah je brezplačno.Natančno ponudbo vam pripravimo
-  na podlagi vaših zahtev, saj je to odvisno predvsem od vaših želja.Plačilo se
-  izvede z bančnim nakazilom na podlagi predračuna, kar je dejansko potrditev za
-  objavo na strežnike Googla s prenosom lastništva in avtorstva foto gradiva na
-  naročnika.
-sourcePath: _posts/2016-08-29-cenik-izdelave.md
-hasPage: true
+  Gostovanje na Google aplikacijah je brezplačno. Natančno ponudbo vam
+  pripravimo na podlagi vaših zahtev, saj je to odvisno predvsem od vaših želja.
+  Plačilo se izvede z bančnim nakazilom na podlagi predračuna, kar je dejansko
+  potrditev za objavo na strežnike Googla s prenosom lastništva in avtorstva
+  foto gradiva na naročnika.
 starred: false
 url: cenik-izdelave/index.html
 _type: Article
