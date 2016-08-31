@@ -1,19 +1,20 @@
 ---
-datePublished: '2016-08-29T09:39:03.551Z'
+datePublished: '2016-08-29T09:48:23.716Z'
 sourcePath: _posts/2016-08-29-kje-vse-boste-vidni.md
 inFeed: true
-isBasedOnUrl: 'https://youtu.be/kMWxBpM-MSA'
 author:
   - name: Google Maps
     url: 'https://www.youtube.com/user/googlemaps'
     avatar: {}
 via: {}
-dateModified: '2016-08-29T09:39:00.662Z'
+dateModified: '2016-08-29T09:48:23.234Z'
 title: Virtualni sprehodi 360°
 publisher: {}
 description: Predstavitev vaše
+hasPage: true
 starred: false
-_type: MediaObject
+url: virtualni-sprehodi-360degree/index.html
+_type: Article
 
 ---
 # Virtualni sprehodi 360°
