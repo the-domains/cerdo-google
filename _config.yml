@@ -19,9 +19,6 @@ author:
   url: www.cerdobeer.com
 name: cerdo-google
 navigation:
-  - name: Virtualni sprehodi 360°
-    id: 65c88cbb-0ea5-4a28-b183-f8c29bfcf051
-    type: content
   - name: Cenik Izdelave
     id: 5660c31c-b24a-4716-a3b6-a94ba620a8e0
     type: content
