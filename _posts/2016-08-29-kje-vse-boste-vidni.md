@@ -1,18 +1,17 @@
 ---
 id: 65c88cbb-0ea5-4a28-b183-f8c29bfcf051
-dateModified: '2016-08-29T11:03:34.561Z'
+dateModified: '2016-08-29T11:11:41.388Z'
 title: Virtualni sprehodi 360°
-datePublished: '2016-08-29T11:03:35.182Z'
+datePublished: '2016-08-29T11:11:42.078Z'
 author: []
 description: – – –
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-29-kje-vse-boste-vidni.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: virtualni-sprehodi-360degree/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5d8fed7-e767-40ed-ae39-bb938b4fc4a4.png)
