@@ -1,16 +1,16 @@
-layout_spectrum: 0.9490083351265639
-typography_spectrum: 0.7630794560536742
+layout_spectrum: 0.5238097151741385
+typography_spectrum: 0.33933388791047037
 color:
-  brandStrength: 0.5354655145201832
-  lightness: 0.5794417893048376
-  saturation: 0.40104346559382975
-  rhythmicContrast: 0.757257217541337
+  brandStrength: 0.17297600815072656
+  lightness: 0.8079574699513614
+  saturation: 0.4380270636174828
+  rhythmicContrast: 0.7012192455586046
   brandColors:
-    - '#FFC10C'
-    - '#1CA261'
-    - '#000000'
-    - '#00FF00'
-    - '#EA3F30'
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
 name: cerdo-google
 navigation:
   - name: Cenik Izdelave
