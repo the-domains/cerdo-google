@@ -16,3 +16,6 @@ navigation:
   - name: Virtualni sprehodi 360°
     id: 65c88cbb-0ea5-4a28-b183-f8c29bfcf051
     type: content
+  - name: Cenik Izdelave
+    id: e8a8d027-4456-499a-a8f1-42c5a2752b46
+    type: content
