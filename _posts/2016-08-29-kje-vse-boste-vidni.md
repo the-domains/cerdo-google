@@ -1,14 +1,11 @@
 ---
-datePublished: '2016-08-29T10:53:14.693Z'
+datePublished: '2016-08-29T11:01:50.086Z'
 sourcePath: _posts/2016-08-29-kje-vse-boste-vidni.md
 inFeed: true
 hasPage: true
-author:
-  - name: Google Maps
-    url: 'https://www.youtube.com/user/googlemaps'
-    avatar: {}
+author: []
 via: {}
-dateModified: '2016-08-29T10:53:10.786Z'
+dateModified: '2016-08-29T11:01:49.390Z'
 title: Virtualni sprehodi 360°
 publisher: {}
 description: – – –
@@ -17,6 +14,7 @@ url: virtualni-sprehodi-360degree/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5d8fed7-e767-40ed-ae39-bb938b4fc4a4.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80601619-750b-4dde-af0f-65fca0cf1b1c.jpg)
 
 # Virtualni sprehodi 360°
