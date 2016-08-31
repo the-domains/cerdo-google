@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-29T10:25:43.231Z'
+datePublished: '2016-08-29T10:31:38.729Z'
 sourcePath: _posts/2016-08-29-cenik-izdelave.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-29T10:25:42.647Z'
+dateModified: '2016-08-29T10:31:38.133Z'
 title: Cenik Izdelave
 publisher: {}
 description: >-
@@ -22,53 +22,53 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42aa01df-9775-4560-8eb9-525b31f3d016.png)
 
-## **Cenik Izdelave**
+# **Cenik Izdelave**
 
-### Google Street View Trusted 360°
+## Google Street View Trusted 360°
 
-Izdelava in objava virtualnega ogleda je enkraten strošek brez naročnine. Gostovanje na Google aplikacijah je brezplačno.  
+_Izdelava in objava virtualnega ogleda je enkraten strošek brez naročnine. Gostovanje na Google aplikacijah je brezplačno.  
 Natančno ponudbo vam pripravimo na podlagi vaših zahtev, saj je to odvisno predvsem od vaših želja.  
-Plačilo se izvede z bančnim nakazilom na podlagi predračuna, kar je dejansko potrditev za objavo na strežnike Googla s prenosom lastništva in avtorstva foto gradiva na naročnika.
+Plačilo se izvede z bančnim nakazilom na podlagi predračuna, kar je dejansko potrditev za objavo na strežnike Googla s prenosom lastništva in avtorstva foto gradiva na naročnika_.
 
 ### **Manjši prostori**
 
-Primerno za ulične lokale ali kioske  
+_Primerno za ulične lokale ali kioske  
 • 3 panoramske fotografije z virtualnim sprehodom (360º)  
 • 3 klasične fotografije (izrezi iz panoram)  
 • objava na Google zemljevidih  
-• objava na Google My Business strani, Google zemljevidih, Google Street View
+• objava na Google My Business strani, Google zemljevidih, Google Street View_
 
-### € 199 + DDV
+### _€ 199 + DDV_
 
 ### **Srednji prostori**
 
-Primerno za frizerske salone, bare, manjše lokale ali manjše trgovine  
+_Primerno za frizerske salone, bare, manjše lokale ali manjše trgovine  
 • 5 panoramskih fotografij z virtualnim sprehodom (360º)  
 • 3 klasičnie fotografije (izrezi iz panoram)  
 • objava na Google zemljevidih  
-• objava na Google My Business strani, Google zemljevidih, Google Street View
+• objava na Google My Business strani, Google zemljevidih, Google Street View_
 
-#### € 299 + DDV
+#### _**€ 299 + DDV**_
 
 ### **Večji prostori**
 
-Primerno za restavracije, kavarne, razna maloprodajna podjetja  
+_Primerno za restavracije, kavarne, razna maloprodajna podjetja  
 • 10 panoramskih fotografij z virtualnim sprehodom (360º)  
 • 5 klasičnih fotografij (izrezi iz panoram)  
 • objava na Google zemljevidih  
-• objava na Google My Business strani, Google zemljevidih, Google Street View
+• objava na Google My Business strani, Google zemljevidih, Google Street View_
 
-#### € 399 + DDV
+#### _**€ 399 + DDV**_
 
 ### **Veliki prostori**
 
-Primerno za velike restavracije in kavarne, zdravniške ordinacije, fitnese, spa  
+_Primerno za velike restavracije in kavarne, zdravniške ordinacije, fitnese, spa  
 • 15 panoramskih fotografij z virtualnim sprehodom (360º)  
 • 5 klasičnih fotografij (izrezi iz panoram)  
 • objava na Google zemljevidih  
-• objava na Google My Business strani, Google zemljevidih, Google Street View
+• objava na Google My Business strani, Google zemljevidih, Google Street View_
 
-#### € 499 + DDV
+#### _**€ 499 + DDV**_
 
 ### **Pripravljena ponudba**
 
@@ -76,7 +76,7 @@ Za podjetja z večjimi prostori (200mq+) in hotele pripravimo ponudo na podlagi 
 • od 21 -- 40 panoramskih fotografij z virtualnim sprehodom (360º)  
 • 10 -- 20 klasičnih fotografij  
 • objava na Google zemljevidih  
-• objava na Google My Business strani, Google zemljevidih, Google Street View
+• objava na Google My Business strani, Google zemljevidih, Google Street View 
 
 ### **Ureditev Google My Business strani/vizitke**
 
