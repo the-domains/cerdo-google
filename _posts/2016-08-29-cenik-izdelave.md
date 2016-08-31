@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-29T09:52:50.243Z'
+datePublished: '2016-08-29T09:53:17.941Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-29T09:52:50.106Z'
+dateModified: '2016-08-29T09:53:17.381Z'
 title: Cenik Izdelave
 publisher: {}
 description: >-
@@ -14,8 +14,10 @@ description: >-
   objavo na strežnike Googla s prenosom lastništva in avtorstva foto gradiva na
   naročnika.
 sourcePath: _posts/2016-08-29-cenik-izdelave.md
+hasPage: true
 starred: false
-_type: Blurb
+url: cenik-izdelave/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a27ebc8-6b43-4eb0-98f2-3804653ea658.png)
