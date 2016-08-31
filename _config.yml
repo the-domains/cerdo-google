@@ -1,0 +1,14 @@
+layout_spectrum: 0.9490083351265639
+typography_spectrum: 0.7630794560536742
+color:
+  brandStrength: 0.5354655145201832
+  lightness: 0.5794417893048376
+  saturation: 0.40104346559382975
+  rhythmicContrast: 0.757257217541337
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: cerdo-google
