@@ -1,18 +1,18 @@
-typography_spectrum: 0.9274596644099802
+layout_spectrum: 0.5155446843709797
+typography_spectrum: 0.34142559487372637
+color:
+  brandStrength: 0.8615994707215577
+  lightness: 0.5169966900721192
+  saturation: 0.4411113753449172
+  rhythmicContrast: 0.19459651713259518
+  brandColors:
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
 content_rating:
   adult: false
-color:
-  brandStrength: 0.06729424325749278
-  lightness: 0.5165858063846827
-  saturation: 0.7944517219439149
-  rhythmicContrast: 0.05492463521659374
-  brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-layout_spectrum: 0.8858979814685881
 author:
   name: Cerdo
   email: cerdobeer@gmail.com
