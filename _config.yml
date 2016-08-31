@@ -6,9 +6,9 @@ color:
   saturation: 0.40104346559382975
   rhythmicContrast: 0.757257217541337
   brandColors:
+    - '#FFC10C'
+    - '#1CA261'
     - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
+    - '#00FF00'
+    - '#EA3F30'
 name: cerdo-google
