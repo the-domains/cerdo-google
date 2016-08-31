@@ -1,21 +1,19 @@
 ---
-datePublished: '2016-08-29T11:25:40.643Z'
+datePublished: '2016-08-29T11:29:13.153Z'
 sourcePath: _posts/2016-08-29-kje-vse-boste-vidni.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-29T11:25:36.034Z'
+dateModified: '2016-08-29T11:29:12.357Z'
 title: Virtualni sprehodi 360°
 id: 65c88cbb-0ea5-4a28-b183-f8c29bfcf051
-publisher:
-  name: cerdo
+publisher: {}
 description: – – –
 starred: false
 url: virtualni-sprehodi-360degree/index.html
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5d8fed7-e767-40ed-ae39-bb938b4fc4a4.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80601619-750b-4dde-af0f-65fca0cf1b1c.jpg)
 
 # Virtualni sprehodi 360°
