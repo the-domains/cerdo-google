@@ -1,20 +1,26 @@
 ---
-datePublished: '2016-08-29T09:31:13.452Z'
+datePublished: '2016-08-29T09:39:03.551Z'
 sourcePath: _posts/2016-08-29-kje-vse-boste-vidni.md
 inFeed: true
 isBasedOnUrl: 'https://youtu.be/kMWxBpM-MSA'
-author: []
+author:
+  - name: Google Maps
+    url: 'https://www.youtube.com/user/googlemaps'
+    avatar: {}
 via: {}
-dateModified: '2016-08-29T09:31:12.755Z'
+dateModified: '2016-08-29T09:39:00.662Z'
 title: Virtualni sprehodi 360°
 publisher: {}
-description: Vaš virtualni ogled
+description: Predstavitev vaše
 starred: false
 _type: MediaObject
 
 ---
 # Virtualni sprehodi 360°
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ac1f15f-d736-444e-b6c7-864bb0e1db0e.jpg)
+
+#### Prvi rezultat ki ga ponudi na Google na mobilni napravi je podatek iz vaše My Business strani.
+
+Predstavitev vaše
 
 Vaš virtualni ogled
 
@@ -26,13 +32,19 @@ Virtualni ogled vašega lokala ali poslovnega prostora, ki bo viden 24ur na dan,
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F9CLYaukFmMw%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9CLYaukFmMw&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F9CLYaukFmMw%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
-## Kje vse boste vidni
+# Kje vse boste vidni
 
-Google iskalnik 
+### **Google iskalnik**
 
 Predstavitev vašega podjetja v zgornjem desnem kotu iskalnika Google s povezavo na virtualni ogled in fotografije.
-![Google iskalnik
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42dc2696-e2cc-4240-98d8-bcb9f56d8e93.jpg)
 
-Predstavitev vašega podjetja v zgornjem desnem kotu iskalnika Google s povezavo na virtualni ogled in fotografije.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42dc2696-e2cc-4240-98d8-bcb9f56d8e93.jpg)
+### **V zemljevidih Google maps**
+
+#### Prikaz vašega podjetja na Google zemljevidih s povezavo na vaše podatke, virtualni ogled in fotografije.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19718f96-eed8-411d-a21f-48e0aa769bad.jpg)
+
+**Na mobilnih napravah**
+
+#### Prvi rezultat ki ga ponudi na Google na mobilni napravi je podatek iz vaše My Business strani.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2808a98-3d9e-4695-812f-b746ee80b6f7.jpg)
