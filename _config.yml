@@ -27,6 +27,9 @@ navigation:
   - name: Cenik Izdelave
     id: 5660c31c-b24a-4716-a3b6-a94ba620a8e0
     type: content
+  - name: Kontakt
+    id: 0b85ea76-61d1-47bd-80aa-a49a20dc10a4
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a2d18e6-4061-4462-9314-056f3d66f5ac.png
 title: 360˘ VR toure
