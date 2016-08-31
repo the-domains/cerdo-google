@@ -16,3 +16,6 @@ navigation:
   - name: Kontakt
     id: 0b85ea76-61d1-47bd-80aa-a49a20dc10a4
     type: content
+  - name: Virtualni sprehodi 360°
+    id: 65c88cbb-0ea5-4a28-b183-f8c29bfcf051
+    type: content
