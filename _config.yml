@@ -1,4 +1,6 @@
 typography_spectrum: 0.9274596644099802
+content_rating:
+  adult: false
 color:
   brandStrength: 0.06729424325749278
   lightness: 0.5165858063846827
@@ -11,6 +13,10 @@ color:
     - '#3498DB'
     - '#2980B9'
 layout_spectrum: 0.8858979814685881
+author:
+  name: Cerdo
+  email: cerdobeer@gmail.com
+  url: www.cerdobeer.com
 name: cerdo-google
 navigation:
   - name: Kontakt
