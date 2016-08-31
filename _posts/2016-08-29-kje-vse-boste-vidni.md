@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-29T09:55:38.338Z'
+datePublished: '2016-08-29T10:03:03.982Z'
 sourcePath: _posts/2016-08-29-kje-vse-boste-vidni.md
 inFeed: true
 hasPage: true
@@ -8,7 +8,7 @@ author:
     url: 'https://www.youtube.com/user/googlemaps'
     avatar: {}
 via: {}
-dateModified: '2016-08-29T09:55:37.869Z'
+dateModified: '2016-08-29T10:03:03.488Z'
 title: Virtualni sprehodi 360°
 publisher: {}
 description: – – –
@@ -17,6 +17,8 @@ url: virtualni-sprehodi-360degree/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80601619-750b-4dde-af0f-65fca0cf1b1c.jpg)
+
 # Virtualni sprehodi 360°
 
 #### Prvi rezultat ki ga ponudi na Google na mobilni napravi je podatek iz vaše My Business strani.
