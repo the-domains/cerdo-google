@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-29T10:15:23.573Z'
+datePublished: '2016-08-29T10:36:44.772Z'
 sourcePath: _posts/2016-08-29-kje-vse-boste-vidni.md
 inFeed: true
 hasPage: true
@@ -8,7 +8,7 @@ author:
     url: 'https://www.youtube.com/user/googlemaps'
     avatar: {}
 via: {}
-dateModified: '2016-08-29T10:15:21.984Z'
+dateModified: '2016-08-29T10:36:44.110Z'
 title: Virtualni sprehodi 360°
 publisher: {}
 description: – – –
