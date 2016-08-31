@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-29T10:12:50.675Z'
+datePublished: '2016-08-29T10:25:43.231Z'
 sourcePath: _posts/2016-08-29-cenik-izdelave.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-29T10:12:50.197Z'
+dateModified: '2016-08-29T10:25:42.647Z'
 title: Cenik Izdelave
 publisher: {}
 description: >-
@@ -30,7 +30,7 @@ Izdelava in objava virtualnega ogleda je enkraten strošek brez naročnine. Gost
 Natančno ponudbo vam pripravimo na podlagi vaših zahtev, saj je to odvisno predvsem od vaših želja.  
 Plačilo se izvede z bančnim nakazilom na podlagi predračuna, kar je dejansko potrditev za objavo na strežnike Googla s prenosom lastništva in avtorstva foto gradiva na naročnika.
 
-#### Manjši prostori
+### **Manjši prostori**
 
 Primerno za ulične lokale ali kioske  
 • 3 panoramske fotografije z virtualnim sprehodom (360º)  
@@ -38,9 +38,9 @@ Primerno za ulične lokale ali kioske
 • objava na Google zemljevidih  
 • objava na Google My Business strani, Google zemljevidih, Google Street View
 
-#### € 199 + DDV
+### € 199 + DDV
 
-#### Srednji prostori
+### **Srednji prostori**
 
 Primerno za frizerske salone, bare, manjše lokale ali manjše trgovine  
 • 5 panoramskih fotografij z virtualnim sprehodom (360º)  
@@ -50,7 +50,7 @@ Primerno za frizerske salone, bare, manjše lokale ali manjše trgovine
 
 #### € 299 + DDV
 
-#### Večji prostori
+### **Večji prostori**
 
 Primerno za restavracije, kavarne, razna maloprodajna podjetja  
 • 10 panoramskih fotografij z virtualnim sprehodom (360º)  
@@ -60,7 +60,7 @@ Primerno za restavracije, kavarne, razna maloprodajna podjetja
 
 #### € 399 + DDV
 
-#### Veliki prostori
+### **Veliki prostori**
 
 Primerno za velike restavracije in kavarne, zdravniške ordinacije, fitnese, spa  
 • 15 panoramskih fotografij z virtualnim sprehodom (360º)  
@@ -70,7 +70,7 @@ Primerno za velike restavracije in kavarne, zdravniške ordinacije, fitnese, spa
 
 #### € 499 + DDV
 
-#### Pripravljena ponudba
+### **Pripravljena ponudba**
 
 Za podjetja z večjimi prostori (200mq+) in hotele pripravimo ponudo na podlagi želja naročnika.  
 • od 21 -- 40 panoramskih fotografij z virtualnim sprehodom (360º)  
@@ -78,7 +78,7 @@ Za podjetja z večjimi prostori (200mq+) in hotele pripravimo ponudo na podlagi 
 • objava na Google zemljevidih  
 • objava na Google My Business strani, Google zemljevidih, Google Street View
 
-#### Ureditev Google My Business strani/vizitke
+### **Ureditev Google My Business strani/vizitke**
 
 Za vaše podjetje lahko uredimo podatke ali poskrbino za vpis vaše neobstoječe enote, podružnice, poravimo pozicijo na zemljevidu ali druge nepravilnosti v sklopu kataloga.  
 • ureditev Google My Busuness strani  
@@ -87,7 +87,7 @@ Za vaše podjetje lahko uredimo podatke ali poskrbino za vpis vaše neobstoječe
 
 #### € 149 + DDV
 
-#### Ureditev Google My Business strani/vizitke skupaj s SVT 360° foto
+### **Ureditev Google My Business strani/vizitke skupaj s SVT 360° foto**
 
 Za vaše podjetje lahko uredimo podatke ali poskrbino za vpis vaše neobstoječe enote, podružnice, poravimo pozicijo na zemljevidu ali druge nepravilnosti v sklopu kataloga.  
 • ureditev Google My Busuness strani  
@@ -98,7 +98,7 @@ Za vaše podjetje lahko uredimo podatke ali poskrbino za vpis vaše neobstoječe
 
 Vaše podjetje si lahko na [My Business][0] strani uredite sami.
 
-### NOVO!
+## NOVO!
 
 #### Izdelava panormaske 360° fotografije za objavo na Facebook strani  
 Panoramska fotografija je obdelana po zahtevah Facebook 360 in se ob objavi samodejno prikaže kot sferična fotogarija za vsemi lastnostmi VR 360 fotografije.
@@ -110,7 +110,7 @@ Ekraten strošek za predelavo/pripravo vašega logotipa za uporabo na želenih p
 
 #### € 35 + DDV
 
-### Doplačila
+## **Doplačila**
 
 • virtualna tura za hotel +20% na ceno zgornjih paketov (vklučitev podatkov v Googlov sistem iskanja Hotelov)  
 • večetažno snemanje in Multilevel prikaz na Googlu +20% na cene paketov  
