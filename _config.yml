@@ -21,9 +21,6 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/23fc1648-c47f-4937-9642-2aedc8fa48d1.png
 name: cerdo-google
 navigation:
-  - name: Kontakt
-    id: 0b85ea76-61d1-47bd-80aa-a49a20dc10a4
-    type: content
   - name: Virtualni sprehodi 360°
     id: 65c88cbb-0ea5-4a28-b183-f8c29bfcf051
     type: content
