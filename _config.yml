@@ -12,7 +12,3 @@ color:
     - '#B64926'
     - '#8E2800'
 name: cerdo-google
-navigation:
-  - name: Cenik Izdelave
-    id: de07cf80-f9f5-4abd-849f-1d877c4d0ea6
-    type: content
