@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-29T10:37:50.021Z'
+datePublished: '2016-08-29T10:40:37.855Z'
 sourcePath: _posts/2016-08-29-cenik-izdelave.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-29T10:35:17.429Z'
+dateModified: '2016-08-29T10:40:36.370Z'
 title: Cenik Izdelave
 publisher: {}
 description: >-
