@@ -12,3 +12,7 @@ color:
     - '#B64926'
     - '#8E2800'
 name: cerdo-google
+navigation:
+  - name: Virtualni sprehodi 360°
+    id: 65c88cbb-0ea5-4a28-b183-f8c29bfcf051
+    type: content
