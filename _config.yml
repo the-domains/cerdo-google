@@ -1,49 +1,14 @@
-name: cerdo-google
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a2d18e6-4061-4462-9314-056f3d66f5ac.png
-layout_spectrum: 0.4776
-typography_spectrum: 0.34142559487372637
-content_rating:
-  adult: false
-author:
-  name: Cerdo
-  email: cerdobeer@gmail.com
-  url: www.cerdobeer.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/23fc1648-c47f-4937-9642-2aedc8fa48d1.png
-navigation:
-  - name: Virtualni sprehodi 360°
-    id: 65c88cbb-0ea5-4a28-b183-f8c29bfcf051
-    type: content
-  - name: Cenik Izdelave
-    id: 5660c31c-b24a-4716-a3b6-a94ba620a8e0
-    type: content
-  - name: Kontakt
-    id: 0b85ea76-61d1-47bd-80aa-a49a20dc10a4
-    type: content
-title: 360˘ VR toure
-description: "cerdobeer mobi: 0310310301 Lendavske gorice132\_gmail:cerdobeer@gmail.com"
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+layout_spectrum: 0.9490083351265639
+typography_spectrum: 0.7630794560536742
 color:
+  brandStrength: 0.5354655145201832
+  lightness: 0.5794417893048376
+  saturation: 0.40104346559382975
+  rhythmicContrast: 0.757257217541337
   brandColors:
-    - '#96CA2D'
-    - '#B5E655'
-    - '#EDF7F2'
-    - '#4BB5C1'
-    - '#7FC6BC'
-  brandStrength: 0.8615994707215577
-  lightness: 0.5169966900721192
-  saturation: 0.4411113753449172
-  rhythmicContrast: 0.5
-purpose: []
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: cerdo-google
